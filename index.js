@@ -6,7 +6,7 @@
 */
 'use strict'
 
-const request = require('request')
+const request = require('needle')
 
 const url = 'https://api.textrazor.com'
 
